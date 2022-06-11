@@ -1,0 +1,44 @@
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 8px;
+  color: white;
+  width: 4%;
+
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+table {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+body {
+  background-image: url(https://ak.picdn.net/shutterstock/videos/13024982/thumb/1.jpg);
+}
+
+p {
+  color: white;
+}
